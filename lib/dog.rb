@@ -6,7 +6,7 @@ class Dog
   end
   
   def name
-    
+    #given_name
   end
   
   
